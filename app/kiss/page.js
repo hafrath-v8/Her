@@ -15,7 +15,7 @@ export default function KissPage() {
   const [message, setMessage] = useState('');
   const intervalRef = useRef(null);
   const timerRef = useRef(null);
-  const [yourName, setYourName] = useState('Rahul');
+  const [yourName, setYourName] = useState('Hafrath');
 
   useEffect(() => {
     const savedSent = localStorage.getItem('kissSentCount');

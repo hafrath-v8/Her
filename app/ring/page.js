@@ -21,8 +21,7 @@ export default function RingPage() {
 'When Allah writes it beautifully for us…',
 'I’ll come to you the halal way.',
 'With a ring, with my family, and with certainty.',
-'Until then, take care of this heart of mine.',
-'Because honestly… it already belongs to you. 🤍',
+'Until then, take care of this heart of mine.🤍',
 ];
 
 
