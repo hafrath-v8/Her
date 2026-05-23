@@ -363,7 +363,7 @@ export default function RingPage() {
               fontStyle: 'italic',
               marginTop: '12px',
             }}>
-              "Not yet. But one day. Always."
+              "Not yet. But one day. Always In sha Allah."
             </p>
             <p style={{
               color: 'rgba(255,255,255,0.5)',
