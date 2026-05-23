@@ -93,7 +93,7 @@ export default function KissPage() {
       const newSent = sentCount + 1;
       setSentCount(newSent);
       localStorage.setItem('kissSentCount', newSent.toString());
-      setMessage(`Kiss sent flying to ${yourName}! 💋`);
+      setMessage(`Kiss sent flying to ${yourName}! 😘`);
     }
     
     // Burst lip marks

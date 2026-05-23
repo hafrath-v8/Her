@@ -12,7 +12,7 @@ export default function RingPage() {
   const [isAccepted, setIsAccepted] = useState(false);
   const [sparkles, setSparkles] = useState([]);
   const [yourName, setYourName] = useState('Hafrath');
-  const [herName, setHerName] = useState('Azra');
+  const [herName, setHerName] = useState('Azra👸🐣');
 
  const fullMessage = [
 'You came into my life so unexpectedly… but it feels so right.',

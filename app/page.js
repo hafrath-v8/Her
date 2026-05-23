@@ -43,7 +43,7 @@ export default function HomePage() {
       buttonColor: '#e74c3c',
     },
     {
-      emoji: '💋',
+      emoji: '😘',
       title: 'Kiss Me',
       description: 'Press and hold for a sweet kiss',
       subtext: 'The longer you hold, the deeper the kiss',
